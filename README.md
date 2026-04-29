@@ -1,1 +1,1 @@
-# ClassProjects
+# Sematic Technology Project
